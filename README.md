@@ -14,7 +14,8 @@ Enable it by adding _elm_ to the [_plugins array_](https://github.com/robbyrusse
 
 | Alias                    | Command                          
 | :------------------------| :--------------------------------
-| er                       | elm repl                              
+| em                       | elm make                          
+| er                       | elm repl                          
 
 ## Contributing
 
