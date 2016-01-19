@@ -15,3 +15,7 @@ Enable it by adding _elm_ to the [_plugins array_](https://github.com/robbyrusse
 | Alias                    | Command                          
 | :------------------------| :--------------------------------
 | er                       | elm repl                              
+
+## Contributing
+
+Please add elm commands with nonconflicting oh-my-zsh aliases. I am fairly new to Elm and will be adding aliases as I go.
