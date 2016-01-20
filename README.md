@@ -16,6 +16,7 @@ Enable it by adding _elm_ to the [_plugins array_](https://github.com/robbyrusse
 | :------------------------| :--------------------------------
 | em                       | elm make                          
 | er                       | elm repl                          
+| epi                      | elm package install                          
 
 ## Contributing
 
