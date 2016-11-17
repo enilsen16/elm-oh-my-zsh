@@ -8,7 +8,7 @@ cd ~/.oh-my-zsh/custom/plugins
 git clone https://github.com/enilsen16/elm-oh-my-zsh.git elm
 ```
 
-Enable it by adding _elm_ to the [_plugins array_](https://github.com/robbyrussell/oh-my-zsh/blob/master/templates/zshrc.zsh-template#L48).
+Enable it by adding _elm_ to the [_plugins array_](https://github.com/robbyrussell/oh-my-zsh/blob/3477ff25274fa75bd9e6110f391f6ad98ca2af72/templates/zshrc.zsh-template#L54).
 
 ## Aliases
 
